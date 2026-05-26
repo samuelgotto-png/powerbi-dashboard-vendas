@@ -1,17 +1,22 @@
-📊 Dashboard de Vendas em Power BI
-🎯 Objetivo
-Criar uma análise de vendas para visualizar desempenho de produtos e identificar insights de negócio.
-🛠️ Ferramentas
-Power BI
-Modelagem de dados
-DAX básico
-📈 Análises realizadas
-Faturamento total
-Produtos mais vendidos
-Performance por período
-💡 Insights
-Identificação dos produtos com maior desempenho
-Análise de tendências de vendas
-Visão geral do faturamento
-📷 Dashboard
-(prints estão na pasta do projeto)
+# 📊 Sales Dashboard in Power BI
+
+## 🎯 Objective
+Create a sales analysis dashboard to visualize product performance and identify business insights.
+
+## 🛠️ Tools
+- Power BI
+- Data Modeling
+- Basic DAX
+
+## 📈 Analysis Performed
+- Total Revenue
+- Best-Selling Products
+- Performance Over Time
+
+## 💡 Insights
+- Identification of top-performing products
+- Sales trend analysis
+- Overall revenue overview
+
+## 📷 Dashboard
+<img width="1366" height="768" alt="9258D19B-40E8-4024-9BCE-7946D6E61876" src="https://github.com/user-attachments/assets/ee7222e2-e600-43b8-97ad-01fef80dbeda" />
